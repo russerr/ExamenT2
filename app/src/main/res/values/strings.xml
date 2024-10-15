@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExamenT2</string>
+    <string name="msg_title_list_albums">Lista de Albumes</string>
+    <string name="msg_filter">Filtrar</string>
+</resources>
